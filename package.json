@@ -19,7 +19,7 @@
     "url": "https://github.com/xucz/rollup-plugin-tmpl/issues"
   },
   "homepage": "https://github.com/xucz/rollup-plugin-tmpl#readme",
-  "devDependencies": {
+  "dependencies": {
     "rollup-pluginutils": "^2.3.3"
   }
 }
